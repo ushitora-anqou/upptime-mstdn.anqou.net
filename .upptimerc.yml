@@ -14,7 +14,7 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: わくわく鮟鱇ランド
   introTitle: 現在の状態
-  introMessage: "わくわく鮟鱇ランドが落ちているときは [@ushitora\_anqou](https://twitter.com/ushitora_anqou) の投稿も見てください。"
+  introMessage: "わくわく鮟鱇ランドが落ちているときは [@ushitora\_anqou@twitter.com](https://twitter.com/ushitora_anqou) の投稿も見てください。"
   navbar:
     - title: Status
       href: /
