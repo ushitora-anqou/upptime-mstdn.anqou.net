@@ -4,18 +4,19 @@
     "url": "https://mstdn.anqou.net/health",
     "icon": "https://icons.duckduckgo.com/ip3/mstdn.anqou.net.ico",
     "slug": "mstdn-anqou-net",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 494,
-    "timeDay": 398,
-    "timeWeek": 507,
-    "timeMonth": 497,
+    "timeDay": 463,
+    "timeWeek": 509,
+    "timeMonth": 498,
     "timeYear": 494,
     "dailyMinutesDown": {
+      "2024-02-19": 0,
       "2023-04-12": 9,
       "2023-03-18": 13
     }
