@@ -6,17 +6,15 @@
     "slug": "mstdn-anqou-net",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.52%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 496,
-    "timeDay": 485,
-    "timeWeek": 468,
-    "timeMonth": 498,
+    "timeDay": 522,
+    "timeWeek": 486,
+    "timeMonth": 499,
     "timeYear": 498,
-    "dailyMinutesDown": {
-      "2024-05-12": 7
-    }
+    "dailyMinutesDown": {}
   }
 ]
