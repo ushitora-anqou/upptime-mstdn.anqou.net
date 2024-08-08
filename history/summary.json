@@ -6,8 +6,8 @@
     "slug": "mstdn-anqou-net",
     "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 561,
@@ -16,7 +16,7 @@
     "timeMonth": 1290,
     "timeYear": 580,
     "dailyMinutesDown": {
-      "2024-08-08": 0,
+      "2024-08-08": 1,
       "2024-06-02": 46,
       "2024-05-31": 16,
       "2024-05-26": 44
