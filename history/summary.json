@@ -4,7 +4,7 @@
     "url": "https://mstdn.anqou.net/health",
     "icon": "https://icons.duckduckgo.com/ip3/mstdn.anqou.net.ico",
     "slug": "mstdn-anqou-net",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 515,
     "timeYear": 584,
     "dailyMinutesDown": {
+      "2024-09-13": 0,
       "2024-08-08": 23,
       "2024-06-02": 46,
       "2024-05-31": 16,
