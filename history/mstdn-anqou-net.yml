@@ -1,7 +1,7 @@
 url: https://mstdn.anqou.net/health
-status: down
-code: 502
-responseTime: 6493
-lastUpdated: 2025-09-21T15:48:19.468Z
+status: up
+code: 200
+responseTime: 650
+lastUpdated: 2025-09-21T15:55:09.423Z
 startTime: 2023-03-17T14:38:58.000Z
 generator: Upptime <https://github.com/upptime/upptime>
