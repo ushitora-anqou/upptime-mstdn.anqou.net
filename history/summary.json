@@ -4,16 +4,16 @@
     "url": "https://mstdn.anqou.net/health",
     "icon": "https://icons.duckduckgo.com/ip3/mstdn.anqou.net.ico",
     "slug": "mstdn-anqou-net",
-    "status": "down",
-    "uptime": "99.47%",
-    "uptimeDay": "72.60%",
-    "uptimeWeek": "96.09%",
-    "uptimeMonth": "98.93%",
-    "uptimeYear": "98.76%",
+    "status": "up",
+    "uptime": "99.45%",
+    "uptimeDay": "39.97%",
+    "uptimeWeek": "91.42%",
+    "uptimeMonth": "98.03%",
+    "uptimeYear": "98.67%",
     "time": 582,
-    "timeDay": 380,
-    "timeWeek": 546,
-    "timeMonth": 535,
+    "timeDay": 447,
+    "timeWeek": 542,
+    "timeMonth": 538,
     "timeYear": 583,
     "dailyMinutesDown": {
       "2025-09-25": 36,
@@ -26,7 +26,7 @@
       "2026-04-29": 146,
       "2026-06-20": 73,
       "2026-07-19": 276,
-      "2026-07-20": 119
+      "2026-07-20": 588
     }
   }
 ]
